@@ -1,0 +1,17 @@
+{
+  "name": "mail-sender",
+  "version": "0.0.1",
+  "description": "A simple e-mail sending script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "email",
+    "sending",
+    "mail",
+    "message"
+  ],
+  "author": "@mostafa-yasin",
+  "license": "ISC"
+}
